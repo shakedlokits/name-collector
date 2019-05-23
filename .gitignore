@@ -273,4 +273,7 @@ modules.xml
 
 # Pyre type checker
 
+### Project Specific ###
+names.db
+
 # End of https://www.gitignore.io/api/flask,python,pycharm+all

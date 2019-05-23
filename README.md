@@ -1,6 +1,9 @@
 # Name Collector
 
 ## Get Started 
-> Run `python main.py`
 
-WIP
+Install Flask:
+> `pip install Flask`
+
+Run the server:
+> `python main.py`
